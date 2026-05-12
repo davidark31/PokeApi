@@ -13,3 +13,5 @@ Componentes reutilizables: Se usan y se construyen componentes personalizados pa
 Angular Material: Se utiliza la librería para la creación de una interfaz de usuario moderna y responsiva, aprovechando componentes como tarjetas (mat-card), botones (mat-button), barras de herramientas (mat-toolbar), entre otros.
 
 Este proyecto es ideal para fines de aprendizaje y para entender la integración de servicios externos y librerías de componentes en un entorno de Angular.
+
+https://davidark31.github.io/PokeApi/
